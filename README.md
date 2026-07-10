@@ -99,7 +99,7 @@ My interests include **AI systems, cloud-native development, backend engineering
 
 
 # 🛠️ Tech Stack
-
+<img src="https://imgur.com/RknLHXQ.png" alt="tech" width="800px">
 
 ## Frontend
 
@@ -146,12 +146,10 @@ My interests include **AI systems, cloud-native development, backend engineering
 - AI Assistants
 
 
-##⚡ Cloud & Tools
+## ⚡ Cloud & Tools
 
 
-- <div align="center">
-
-<img src="https://imgur.com/RknLHXQ.png" alt="tech" width="800px">
+<div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
