@@ -99,8 +99,9 @@ My interests include **AI systems, cloud-native development, backend engineering
 
 
 # 🛠️ Tech Stack
+<div align="center">
 <img src="https://imgur.com/RknLHXQ.png" alt="tech" width="800px">
-
+</div>
 ## Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
