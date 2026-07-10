@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=140&section=header&text=Devin%20Addison%20Decker&fontSize=42&fontColor=ffffff&fontAlignY=60&animation=fadeIn" width="100%"/>
 
-```html
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer+(AI+Systems);LLMs+%C2%B7+RAG+%C2%B7+Cloud+Engineering;AWS+%C2%B7+Azure+%C2%B7+Kubernetes;Building+Scalable+AI-Powered+Applications;Backend+Engineering+%C2%B7+Distributed+Systems" />
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;React+%C2%B7+TypeScript+%C2%B7+AI+Applications;Building+Scalable+Web+%26+Mobile+Experiences;" /> <br/>
 
 
 <br/>
