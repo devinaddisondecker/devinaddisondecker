@@ -263,7 +263,7 @@ I'm always interested in discussing software engineering, AI applications, and i
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devin-decker-5b8396414)
 
-[![Email](https://img.shields.io/badge/Email-mohuya389@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:devindecker112399@gmail.com)
+[![Email](https://img.shields.io/badge/Email-devindecker112399@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:devindecker112399@gmail.com)
 
 <br/>
 
